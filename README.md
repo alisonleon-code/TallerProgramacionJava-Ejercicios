@@ -1,2 +1,12 @@
 # TallerProgramacionJava-Ejercicios
-Solución de laboratorios de programación en Java - 3er Ciclo 
+Este repositorio contiene laboratorios prácticos para aprender Java.
+
+## Laboratorio 01 - Introducción a Java
+Contiene:
+- Enunciado del laboratorio
+- Solución en Java
+- Proyecto completo
+Temas:
+- Estructura de un programa Java
+- Método main
+- Salida por consola
