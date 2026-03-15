@@ -2,53 +2,37 @@
 
 ## Descripción
 
-Este laboratorio tiene como objetivo practicar el uso de **sentencias básicas, tipos de datos y operaciones matemáticas en Java**, mediante la elaboración de programas que permiten ingresar datos por teclado y mostrar resultados en la consola.
+Este laboratorio tiene como objetivo practicar el uso de **sentencias básicas, tipos de datos y operaciones matemáticas en Java**.
+Se desarrollan ejemplos y ejercicios que permiten ingresar datos por teclado y mostrar resultados en la consola.
+
+## Estructura del laboratorio
+
+El laboratorio se encuentra organizado en las siguientes carpetas:
+
+### codigo
+
+Contiene los **programas desarrollados en Java**, incluyendo los ejemplos y los ejercicios propuestos resueltos.
+
+### enunciado
+
+Contiene el **documento PDF del laboratorio**, donde se encuentran los ejemplos y ejercicios planteados.
+
+### proyecto
+
+Contiene el **proyecto completo comprimido (.zip)** para poder abrirlo directamente en el IDE.
 
 ## Contenido del laboratorio
 
-El laboratorio incluye:
-
-* Ejemplos de ingreso de datos utilizando `Scanner`
+* Ejemplos de ingreso de datos con `Scanner`
 * Uso de variables y tipos de datos
 * Operaciones matemáticas básicas
 * Resolución de problemas mediante programación
 
-## Archivos incluidos
+## Tecnología utilizada
 
-* **Ejemplos**
-
-  * `Ejemplo1.java`
-  * `Ejemplo2.java`
-  * `Ejemplo3.java`
-  * `Ejemplo4.java`
-
-* **Ejercicios resueltos**
-
-  * `Ejercicio01.java`
-  * `Ejercicio02.java`
-  * `Ejercicio03.java`
-  * `Ejercicio04.java`
-  * `Ejercicio05.java`
-  * `Ejercicio06.java`
-  * `Ejercicio07.java`
-  * `Ejercicio08.java`
-  * `Ejercicio09.java`
-  * `Ejercicio10.java`
-  * `Ejercicio11.java`
-  * `Ejercicio12.java`
-  * `Ejercicio13.java`
-  * `Ejercicio14.java`
-  * `Ejercicio15.java`
-  * `Ejercicio16.java`
-  * `Ejercicio17.java`
-  * `Ejercicio18.java`
-
-## Tecnologías utilizadas
-
-* Lenguaje: **Java**
-* IDE recomendado: **Apache NetBeans**
+* Lenguaje de programación: **Java**
+* IDE: **Apache NetBeans**
 
 ## Autor
 
 Alison León
-
