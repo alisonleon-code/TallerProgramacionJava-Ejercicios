@@ -50,9 +50,3 @@ El objetivo de este proyecto es digitalizar y automatizar el proceso de compra d
 - **Entorno de Desarrollo**: NetBeans  
 - **Paradigma**: Programación orientada a objetos (OOP)
 
----
-
-## **Instrucciones para Ejecutar**  
-1. Clona este repositorio a tu máquina local:  
-```bash
-git clone https://github.com/tu_usuario/nombre_del_repositorio.git
