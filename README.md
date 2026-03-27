@@ -1,29 +1,32 @@
-# Taller de Programación en Java
+# Taller de Programación en Java ☕
 
-Repositorio que contiene los **laboratorios desarrollados durante el curso de Taller de Programación**, donde se practican los fundamentos del lenguaje **Java** mediante ejemplos y ejercicios.
+Repositorio que contiene los laboratorios y ejercicios desarrollados durante el curso de **Taller de Programación**, donde se practican los fundamentos del lenguaje **Java** mediante la resolución de problemas lógicos y aplicaciones prácticas.
 
-## Objetivo
+### 🎯 Objetivo
 
-Aplicar los conceptos básicos de programación en Java, tales como el uso de variables, tipos de datos, entrada de datos por teclado y operaciones matemáticas, mediante la resolución de diferentes problemas prácticos.
+Aplicar los conceptos base de la programación orientada a objetos (POO), tales como el uso de variables, tipos de datos, estructuras de control y operaciones matemáticas, construyendo una base sólida para el desarrollo de software.
 
-## Estructura del repositorio
+### 📁 Estructura del repositorio
 
-Cada laboratorio se encuentra organizado en carpetas que incluyen:
+Para mantener el orden y la trazabilidad de cada sesión, las carpetas están organizadas de la siguiente manera:
 
-* **codigo:** programas desarrollados en Java (ejemplos y ejercicios resueltos)
-* **enunciado:** documento con los problemas propuestos del laboratorio
-* **proyecto:** proyecto completo comprimido para abrir en el IDE
+*   **💻 Código:** Programas desarrollados en Java (archivos .java) con comentarios didácticos.
+*   **📄 Enunciado:** Documento con los problemas y requerimientos propuestos en cada laboratorio.
+*   **📦 Proyecto:** Archivo comprimido con la estructura completa del proyecto para su importación directa en el IDE.
 
-## Laboratorios
+### 📚 Laboratorios Desarrollados
 
-* **Laboratorio 01 – Introducción a Java**
-* **Laboratorio 02 – Sentencias y Tipos de Datos**
+*   **Laboratorio 01 – Introducción a Java:** Configuración del entorno, sintaxis básica y salida de datos por consola.
+*   **Laboratorio 02 – Sentencias y Tipos de Datos:** Manejo de variables, operadores aritméticos y entrada de datos mediante `Scanner`.
+*   *Próximamente: Estructuras condicionales y bucles (iteraciones).*
 
-## Tecnologías utilizadas
+### 🛠️ Tecnologías utilizadas
 
-* Lenguaje de programación: **Java**
-* IDE utilizado: **Apache NetBeans**
+*   **Lenguaje de programación:** Java (JDK 17+)
+*   **IDE utilizado:** Apache Netbeans
+*   **Gestor de versiones:** Git / GitHub
 
-## Autor
-
-Alison León
+---
+### 👤 Autor
+**Alison León**  
+*Estudiante de Ingeniería de Sistemas e Informática - UTP*
