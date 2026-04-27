@@ -18,20 +18,13 @@ Para mantener el orden y la trazabilidad de cada sesión, las carpetas están or
 
 *   **Laboratorio 01 – Introducción a Java:** Configuración del entorno, sintaxis básica y salida de datos por consola.
 *   **Laboratorio 02 – Sentencias y Tipos de Datos:** Manejo de variables, operadores aritméticos y entrada de datos mediante `Scanner`.
-*   * **Laboratorio 09 – Arreglos de una Dimensión (Vectores)**  
-Recorridos, filtrado, estadísticas, transformaciones y operaciones con vectores.
+*   **Laboratorio 09 – Arreglos de una Dimensión (Vectores):** Recorridos, filtrado, estadísticas, transformaciones y operaciones con vectores.
+*   **Laboratorio 12 – Arreglos Bidimensionales (Matrices):** Manipulación de matrices, diagonales, intercambio de elementos, bordes, sumatorias y procesamiento de datos.
+*   **Laboratorio 13 – Parámetros y Argumentos:** Uso de métodos con parámetros, métodos con retorno y tipo void aplicados a problemas reales.
 
-* **Laboratorio 12 – Arreglos Bidimensionales (Matrices)**  
-Manipulación de matrices, diagonales, intercambio de elementos, bordes, sumatorias y procesamiento de datos.
+*   **Laboratorio 14 – Modificadores de Acceso:** Aplicación de encapsulamiento, getters, setters y métodos accesores en Java.
 
-* **Laboratorio 13 – Parámetros y Argumentos**  
-Uso de métodos con parámetros, métodos con retorno y tipo void aplicados a problemas reales.
-
-* **Laboratorio 14 – Modificadores de Acceso**  
-Aplicación de encapsulamiento, getters, setters y métodos accesores en Java.
-
-* **Laboratorio 16 – Sobrecarga de Constructores y Métodos**  
-Implementación de sobrecarga para constructores y métodos en problemas orientados a objetos.
+* **Laboratorio 16 – Sobrecarga de Constructores y Métodos:** Implementación de sobrecarga para constructores y métodos en problemas orientados a objetos.
 
 
 ### 🛠️ Tecnologías utilizadas
