@@ -24,6 +24,7 @@ Para mantener el orden y la trazabilidad de cada sesión, las carpetas están or
 * **Laboratorio 07 – Estructura Repetitiva DO-WHILE:** Aplicación de estructuras `do-while` para procesos repetitivos con validación y control de terminación.
 * **Laboratorio 08 – Estructura Repetitiva FOR:** Resolución de ejercicios utilizando ciclos `for`, validaciones, series numéricas y procesamiento repetitivo de datos.
 *   **Laboratorio 09 – Arreglos de una Dimensión (Vectores):** Recorridos, filtrado, estadísticas, transformaciones y operaciones con vectores.
+* **Laboratorio 11 – Arreglos Bidimensionales (Matrices):** Manipulación de matrices, diagonales, intercambio de elementos, sumatorias, búsqueda y procesamiento de datos bidimensionales.
 *   **Laboratorio 12 – Arreglos Bidimensionales (Matrices):** Manipulación de matrices, diagonales, intercambio de elementos, bordes, sumatorias y procesamiento de datos.
 *   **Laboratorio 13 – Parámetros y Argumentos:** Uso de métodos con parámetros, métodos con retorno y tipo void aplicados a problemas reales.
 *   **Laboratorio 14 – Modificadores de Acceso:** Aplicación de encapsulamiento, getters, setters y métodos accesores en Java.
