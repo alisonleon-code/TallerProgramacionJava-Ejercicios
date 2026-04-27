@@ -18,14 +18,16 @@ Para mantener el orden y la trazabilidad de cada sesión, las carpetas están or
 
 *   **Laboratorio 01 – Introducción a Java:** Configuración del entorno, sintaxis básica y salida de datos por consola.
 *   **Laboratorio 02 – Sentencias y Tipos de Datos:** Manejo de variables, operadores aritméticos y entrada de datos mediante `Scanner`.
+* **Laboratorio 03 – Estructura Condicional IF-ELSE:** Desarrollo de problemas utilizando operadores relacionales, lógicos y estructuras condicionales para la toma de decisiones.
+* **Laboratorio 04 – Estructura Condicional SWITCH:** Implementación de estructuras `switch` para resolver problemas basados en múltiples opciones y selección de casos.
+* **Laboratorio 06 – Estructura Repetitiva WHILE:** Uso de bucles `while`, acumuladores, contadores y método supuesto falso para resolver problemas iterativos.
+* **Laboratorio 07 – Estructura Repetitiva DO-WHILE:** Aplicación de estructuras `do-while` para procesos repetitivos con validación y control de terminación.
+* **Laboratorio 08 – Estructura Repetitiva FOR:** Resolución de ejercicios utilizando ciclos `for`, validaciones, series numéricas y procesamiento repetitivo de datos.
 *   **Laboratorio 09 – Arreglos de una Dimensión (Vectores):** Recorridos, filtrado, estadísticas, transformaciones y operaciones con vectores.
 *   **Laboratorio 12 – Arreglos Bidimensionales (Matrices):** Manipulación de matrices, diagonales, intercambio de elementos, bordes, sumatorias y procesamiento de datos.
 *   **Laboratorio 13 – Parámetros y Argumentos:** Uso de métodos con parámetros, métodos con retorno y tipo void aplicados a problemas reales.
-
 *   **Laboratorio 14 – Modificadores de Acceso:** Aplicación de encapsulamiento, getters, setters y métodos accesores en Java.
-
 * **Laboratorio 16 – Sobrecarga de Constructores y Métodos:** Implementación de sobrecarga para constructores y métodos en problemas orientados a objetos.
-
 
 ### 🛠️ Tecnologías utilizadas
 
