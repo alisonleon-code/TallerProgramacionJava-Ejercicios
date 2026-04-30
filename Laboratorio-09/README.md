@@ -1,4 +1,4 @@
-# Laboratorio 09 – Arreglos de una Dimensión (Vectores)
+# Laboratorio 09 – Arreglos de una Dimensión(Vectores)
 
 ## Descripción
 Este laboratorio tiene como objetivo aplicar el uso de arreglos de una dimensión (vectores) en Java, permitiendo almacenar, manipular y procesar conjuntos de datos del mismo tipo.
